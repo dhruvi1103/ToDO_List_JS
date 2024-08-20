@@ -1,1 +1,2 @@
-# ToDO_List_JS
+# ToDoList
+This To_Do_List is created using "JAVASCRIPT".
